@@ -1,9 +1,9 @@
 export default{
     data(){
         return{
-            basico : "hello world",
-            intermedio: "Artemis",
-            avanzado: "Sputnik"
+            basico : `<p style="color:orange;">Apolo</p>`,
+            intermedio: `<p style="color:green;">Artemis</p>`,
+            avanzado: `<p style="color:red;">Sputnik</p>`
         }
     }
 }
