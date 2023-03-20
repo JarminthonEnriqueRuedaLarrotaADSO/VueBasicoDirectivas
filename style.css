@@ -1,7 +1,12 @@
-.info{
+.error{
+    margin-top: .5em;
+    display: inline-flex;
     background-color: rgb(0, 0, 0);
     padding: .3rem;
     font-family: sans-serif;
     border-radius: .5rem;
     color: #fff;
+}
+.quite{
+    display: block;
 }
