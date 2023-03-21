@@ -1,11 +1,8 @@
 export default{
     data(){
         return{
-          lista:[
-            "Apolo",
-            "Artemis",
-            "Sputnik"
-          ]
+          imagen:"https://i.blogs.es/0ec27f/memess/1366_2000.jpg",
+          text:"meme"
         }
     }
 }
